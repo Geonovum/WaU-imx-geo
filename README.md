@@ -1,6 +1,5 @@
-# WaU-imx-geo
+De inhoud van deze repository is verplaatst:
 
-De inhoud van de repository WaU-imx-geo is verplaatst naar imx-geo:
-https://github.com/Geonovum/imx-geo
+https://github.com/Geonovum/IMX-Geo
 
 
